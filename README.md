@@ -10,6 +10,6 @@ Words from [Abhinavs](https://github.com/abhinavs): Cookie is a Jekyll and Tailw
 `bin/start` - development server will start at http://127.0.0.1:4061
 
 ## This template is made by Abhinav
-✨⚡You can read more about him on your personal blog [blog](https://www.abhinav.co/about/)
+✨⚡You can read more about him on your personal [blog](https://www.abhinav.co/about/)
 
 My personal Twitter - [@winternati](https://twitter.com/winternati)
